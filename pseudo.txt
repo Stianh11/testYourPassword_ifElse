@@ -1,0 +1,12 @@
+Get input from user: ""
+check the password length:
+
+if the password is under 4 characters:
+ then return "thats not even a password, are you stupid?"
+else if the password is under or same as 8:
+ then return "that's weak bro!"
+else if the password is under or the same as 16:
+ then return "thats allright"
+else if the password is under or the same as the 30:
+ then return "thats strong mæn"
+ else: return "Legend!"
